@@ -28,3 +28,5 @@ function foldTo(distance) {
   }
   return folds;
 }
+
+// or
